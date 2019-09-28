@@ -25,4 +25,7 @@ Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
+Filename: ./debs/com.snowboard.cuterockx.deb
+Depiction: cuterockx.github.io/repo/depictions/callproxi
+Size: 1085
+HD5sum: a0c5b9ac3515cdec1627bdf0c858d3a2
